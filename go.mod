@@ -9,7 +9,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/lmittmann/tint v1.1.2
 	github.com/prometheus/client_golang v1.23.2
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	github.com/ztrue/shutdown v0.1.1
 	golang.org/x/sync v0.16.0
 	gorm.io/driver/mysql v1.6.0

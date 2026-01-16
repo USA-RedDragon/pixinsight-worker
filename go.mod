@@ -1,6 +1,6 @@
 module github.com/USA-RedDragon/pixinsight-worker
 
-go 1.25.4
+go 1.25.6
 
 require (
 	github.com/USA-RedDragon/configulator v0.0.1
